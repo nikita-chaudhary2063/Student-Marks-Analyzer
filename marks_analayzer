@@ -1,0 +1,33 @@
+Student Marks Analyzer
+A beginner-friendly Python mini project that analyzes the marks of five students and displays their academic results.
+
+Features
+Takes marks as input for five students.
+Stores marks in a Python list.
+Counts the number of passed students (marks ≥ 40).
+Counts the number of failed students (marks < 40).
+Calculates total and average marks.
+Finds the highest marks.
+Displays the list of students' marks.
+
+Python Concepts Used
+Variables and data types
+Lists and append()
+for loops
+if-else statements
+Counters
+
+Built-in functions: sum(), len(), and max()
+
+User input and output
+
+Purpose
+This project helped me practice Python fundamentals, conditional logic, loops, lists, and basic data analysis.
+
+How to Run
+Install Python.
+Save the code as student_marks_analyzer.py.
+Run the following command:
+python student_marks_analyzer.py
+
+Created as part of my Python learning journey. 
